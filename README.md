@@ -1,2 +1,2 @@
-# messenger
-REST APIs with JAX-RS
+# Messenger API
+REST APIs with JAX-RS and Jersey
